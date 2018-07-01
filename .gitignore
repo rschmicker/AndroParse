@@ -1,0 +1,10 @@
+vendor/
+androparse/glide.lock
+*.so
+data/
+testAPK/
+*nullclasses.dex
+*.apk
+*.log
+*.json
+temp/

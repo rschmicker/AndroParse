@@ -1,0 +1,3 @@
+apkDir: "/home/rschmicker/apkstesting"
+codeDir: "/home/rschmicker/src/github.com/AndroParse/androparse"
+outputDir: "/home/rschmicker/apkstesting/output"

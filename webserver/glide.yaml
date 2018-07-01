@@ -1,0 +1,5 @@
+package: webserver
+import:
+- package: golang.org/x/net/context
+- package: github.com/olivere/elastic
+- package: golang.org/x/sync/errgroup

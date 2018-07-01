@@ -1,0 +1,5 @@
+apkDir: "/home/rschmicker/src/github.com/AndroParse/testAPK/apk"
+outputDir: "/home/rschmicker/src/github.com/AndroParse/testAPK/output"
+codeDir: "/home/rschmicker/src/github.com/AndroParse/androparse"
+cacheDir: "/dev/shm"
+cacheSize: 50
